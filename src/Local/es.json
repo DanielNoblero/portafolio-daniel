@@ -1,0 +1,24 @@
+{
+  
+  "idioma": "Idioma",
+  "Daniel Dev": "Daniel Dev",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "Spanish": "Español",
+  "English": "Inglés",
+  "contactUs": {
+    "title": "Contáctenos",
+    "emailPlaceholder": "Correo electrónico",
+    "subjectPlaceholder": "Asunto",
+    "messagePlaceholder": "Mensaje",
+    "sendButton": "Enviar"
+},
+
+  "description": "Desarrollador Front-End especializado en React.",
+  "description2": "Soy desarrollador front-end con experiencia en la creación de interfaces modernas, accesibles y responsivas. Manejo tecnologías clave como HTML, CSS, JavaScript y React.js, y tengo conocimientos en integración con Firebase para el desarrollo de aplicaciones web dinámicas. Me enfoco en escribir código limpio, reutilizable y en seguir buenas prácticas de desarrollo para construir experiencias de usuario intuitivas y eficientes.",
+  "vercodigo": "Ver código",
+  "proyecto1_desc": "Este fue uno de mis primeros proyectos, desarrollado con Python y el framework Django. Me permitió familiarizarme con el backend y la creación de aplicaciones web dinámicas.",
+  "proyecto2_desc": "En este proyecto puse en práctica mis conocimientos de HTML y CSS, construyendo una web estática con diseño responsive y enfoque en la experiencia del usuario.",
+  "proyecto3_desc": "Mi proyecto más reciente desarrollado con React.js, donde integré Firebase para la gestión de base de datos en tiempo real. Aprendí a manejar rutas, estados y componentes reutilizables."
+
+}

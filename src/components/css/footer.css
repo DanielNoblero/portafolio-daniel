@@ -1,0 +1,76 @@
+/* Estilos para el footer */
+.footer-container {
+    background-color: #1a1a2e;
+    padding: 2rem 0;
+    margin-top: 3rem;
+    text-align: center;
+    border-top: 1px solid #2a2a3a;
+}
+
+.social-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.connect-text {
+    color: #aeaeae;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.social-link {
+    transition: transform 0.3s ease;
+}
+
+.social-link:hover {
+    transform: translateY(-5px);
+}
+
+.social-icon {
+    width: 30px;
+    height: 30px;
+    fill: #aeaeae;
+    transition: fill 0.3s ease;
+}
+
+.social-icon.github:hover {
+    fill: #ffffff;
+}
+
+.social-icon.linkedin:hover {
+    fill: #0077b5;
+}
+
+.social-icon.email:hover {
+    fill: #ea4335;
+}
+
+.copyright {
+    color: #757575;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+}
+
+/* Media queries para responsividad */
+@media (max-width: 768px) {
+    .footer-container {
+        padding: 1.5rem 0;
+    }
+
+    .icons {
+        gap: 1.5rem;
+    }
+
+    .social-icon {
+        width: 25px;
+        height: 25px;
+    }
+}
