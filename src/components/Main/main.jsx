@@ -13,7 +13,7 @@ export default function Main() {
 
       <div className="projects-grid">
         <div className="project-card">
-          <img src="/src/components/assets/imagenes/python.png" alt="Proyecto 1" />
+          <img src="/assets/imagenes/python.png" alt="Proyecto 1" />
           <h3>Python</h3>
           <p>{t('proyecto1_desc')}</p>
           <div className='buttons'>
@@ -26,7 +26,7 @@ export default function Main() {
       </div>
 
       <div className="project-card">
-        <img src="/src/components/assets/imagenes/Html.png" alt="Proyecto 2" />
+        <img src="/assets/imagenes/Html.png" alt="Proyecto 2" />
         <h3>Desarrollador Web</h3>
         <p>{t('proyecto2_desc')}</p>
         <div className='buttons'>
@@ -39,7 +39,7 @@ export default function Main() {
       </div>
 
       <div className="project-card">
-        <img src="/src/components/assets/imagenes/react.png" alt="Proyecto 3" />
+        <img src="/assets/imagenes/react.png" alt="Proyecto 3" />
         <h3>React.js</h3>
         <p>{t('proyecto3_desc')}</p>
         <div className='buttons'>
