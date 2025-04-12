@@ -13,7 +13,7 @@ export default function Main() {
 
       <div className="projects-grid">
         <div className="project-card">
-          <img src="/src/components/assets/imagenes/python.png" alt="Proyecto 1" />
+          <img src="/assets/imagenes/python.png" alt="Proyecto 1" />
           <h3>Python</h3>
           <p>{t('proyecto1_desc')}</p>
           <div className='buttons'>
