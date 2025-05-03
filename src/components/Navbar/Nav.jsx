@@ -22,8 +22,9 @@ export default function Nav() {
 
         <Link to="/" className="logo">{t('Daniel Dev')}</Link>
         <ul className="flex gap-6">
-          <Link to="/proyecto" className="nav-item">{t('projects')}</Link>
+          <Link to="/about" className="nav-item">{t('About')}</Link>
           <Link to="/contactus" className="nav-item">{t('contact')}</Link>
+          <Link to="/skills" className="nav-item">{t('Skills')}</Link>
         </ul>
 
         <div className="dropdown">

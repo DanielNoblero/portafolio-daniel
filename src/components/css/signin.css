@@ -52,6 +52,18 @@ body .signin {
     color: #fff;
 
 }
+.input-box textarea {
+    height: 120px; /* O el alto que prefieras */
+    resize: vertical; /* Permite que el usuario lo agrande si quiere */
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
 
 .input-box i {
     position: absolute;

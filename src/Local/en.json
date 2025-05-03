@@ -1,26 +1,33 @@
 {
-  
   "idioma": "Language",
   "Daniel Dev": "Daniel Dev",
   "projects": "Projects",
   "contact": "Contact",
   "Spanish": "Spanish",
   "English": "English",
- 
+  "About": "About",
+  "Skills": "Skills",
   "contactUs": {
     "title": "Contact Us",
     "emailPlaceholder": "Email",
     "subjectPlaceholder": "Subject",
     "messagePlaceholder": "Message",
     "sendButton": "Send"
-},
-
+  },
   "description": "Front-End developer specialized in React.",
   "description2": "I'm a front-end developer with experience building modern, responsive, and accessible user interfaces. I work with core technologies like HTML, CSS, JavaScript, and React.js, and have experience integrating Firebase for dynamic web applications. I focus on writing clean, reusable code and following best practices to deliver intuitive and efficient user experiences.",
   "vercodigo": "View code",
-  "proyecto1_desc": "This was one of my first projects, built with Python and the Django framework. It helped me get hands-on experience with backend development and dynamic web applications.",
-  "proyecto2_desc": "In this project, I applied my knowledge of HTML and CSS to build a responsive static website focused on user experience and clean design.",
-  "proyecto3_desc": "My most recent project built with React.js, where I integrated Firebase for real-time database management. I worked with routing, state management, and reusable components."
-
-
+  "proyecto1_desc": "This was one of my first projects, built with Python and the Django framework. It helped me get hands-on experience with backend development and dynamic web applications. I learned about database management, user authentication, and RESTful APIs.",
+  "proyecto2_desc": "In this project, I applied my knowledge of HTML and CSS to build a responsive static website focused on user experience and clean design.                  ",
+  "proyecto3_desc": "My most recent project built with React.js, where I integrated Firebase for real-time database management. I worked with routing, state management, and reusable components.",
+  "about": {
+    "title": "About Me",
+    "intro": "Hi! I'm Daniel Rodríguez, a frontend developer passionate about creating modern and functional web interfaces. I mainly work with React.js and tools like Vite, and I have experience with HTML, CSS, JavaScript, Node.js, and Python.",
+    "learning": "I'm a proactive person and a constant learner. I enjoy facing challenges that help me grow as a developer and improve user experiences in every project.",
+    "focus": "I'm currently focused on improving my skills in advanced React and appealing UI design. I'm looking for opportunities to add value, learn from other professionals, and continue developing in the web development world."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Technologies and tools I work with"
+  }
 }
